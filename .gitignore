@@ -11,9 +11,6 @@
 /build/
 /target/
 
-# VS Code workspace settings (optional)
-.vscode/
-
 # OS-specific
 .DS_Store
 Thumbs.db
